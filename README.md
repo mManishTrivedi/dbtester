@@ -8,3 +8,8 @@ Joomla database tester. Test database connection and getTablelist Only for Jooml
 2. Install plugin and enable it
 3. Check available button in basic-params 
 
+# Supported databse
+Currently support only "sqlite". Further we will add for other db 
+
+
+
